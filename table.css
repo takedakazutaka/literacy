@@ -1,0 +1,9 @@
+.table2 {
+  border: 1px solid orenge;
+}
+.table2 th, .table2 td {
+  border: 1px solid orenge;
+}
+.table2 th {
+  background-color: #ccf;
+}
